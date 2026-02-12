@@ -1,0 +1,7 @@
+{
+  "name": "Money Mngr PWA",
+  "description": "A privacy-first personal finance PWA with offline-first architecture, SMS parsing, and Google Sheets backup.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ]
+}
